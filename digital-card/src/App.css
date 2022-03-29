@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+.container {
+  background-color: #23252C;
+  width: 550px;
+  height: 868px;
+  margin: auto;
+}
+
+.photo {
+ 
+  width: 317px;
+  height: 317px;
+  margin-left: 116px;
+  margin-top: 44px;
+  
+}
